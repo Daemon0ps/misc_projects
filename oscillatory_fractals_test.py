@@ -1,3 +1,4 @@
+#brought to you by the colour Sigmoid, and the letter 12.
 import numpy as np
 from datetime import datetime
 import matplotlib.pyplot as plt
